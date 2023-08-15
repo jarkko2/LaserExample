@@ -10,3 +10,6 @@ Example project on how to make laser with raycasting
 - Maximum Iterations
 - Raycast distance
 - Spawn lights toggle
+
+# Bugs, limitations, todos
+- LineRenderer is not the best way for rendering laser, alternative could be trail renderer
