@@ -3,6 +3,7 @@
 Example project on how to make laser with raycasting   
 
 ![image](image.png)
+![image](image2.png)
 
 # Features
 - Toggle for debug line
